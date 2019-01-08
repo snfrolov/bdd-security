@@ -7,3 +7,6 @@ build/
 *.iml
 *.output
 log4j.properties
+*.db
+*.old
+/out
